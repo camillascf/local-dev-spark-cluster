@@ -1,4 +1,4 @@
-# spark-cluster-ml-dev
+# local spark cluster to train ML classifier
 Three docker images to build a development spark cluster and an example to train a machine learning model on the cluster.
 Steps to run example:
 - create a docker network
